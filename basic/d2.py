@@ -1,0 +1,5 @@
+print("muna das")
+print("bbsr")
+print(18)
+print(5.4)
+print(False)
