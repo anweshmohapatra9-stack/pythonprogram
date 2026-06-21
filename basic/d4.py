@@ -1,0 +1,10 @@
+nm="muna das"
+ad="bbsr"
+age=18
+ht=5.4
+mar=False
+print("my name=",nm)
+print("my address=",ad)
+print("my age=",age)
+print("my height=",ht)
+print("marrige=",mar)
